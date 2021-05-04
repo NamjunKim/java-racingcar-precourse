@@ -5,3 +5,9 @@
 
 ## 과제 제출 과정
 * [과제 제출 방법](https://github.com/next-step/nextstep-docs/tree/master/precourse)
+
+## 설계
+* 자동차 함수 구성
+* 자동차 이동 함수 구성
+* 원시 함수 없이 진행할 계획 구성
+* 메인 함수 구
